@@ -19,6 +19,13 @@ yarn build
 ```
 yarn lint
 ```
+### 项目依赖组件库
+```
+element-ui
+```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 项目依赖其他插件-生成随机UUID用
+```
+dateformat
+randomstring
+```
